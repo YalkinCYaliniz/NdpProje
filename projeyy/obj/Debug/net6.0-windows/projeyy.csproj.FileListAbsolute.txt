@@ -1,0 +1,155 @@
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.AssemblyReference.cache
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.Form1.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.GenerateResource.cache
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfoInputs.cache
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfo.cs
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.CoreCompileInputs.cache
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.exe
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.deps.json
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.runtimeconfig.json
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgen.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\refint\projeyy.dll
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.genruntimeconfig.cache
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\ref\projeyy.dll
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktacember.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgendikdortgen.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgencember.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.cembercember.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktakure.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktasilindir.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.silindirsilindir.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.kurekure.resources
+C:\Users\Yalkın Can Yalın\source\repos\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.kuresilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.exe
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.deps.json
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.runtimeconfig.json
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\bin\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.AssemblyReference.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.cembercember.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgencember.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgendikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.Form1.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.kurekure.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.kuresilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktacember.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktakure.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.noktasilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.silindirsilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.GenerateResource.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfoInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfo.cs
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.CoreCompileInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\refint\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\projeyy.genruntimeconfig.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyy\projeyy\obj\Debug\net6.0-windows\ref\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\bin\Debug\net6.0-windows\projeyy.exe
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\bin\Debug\net6.0-windows\projeyy.deps.json
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\bin\Debug\net6.0-windows\projeyy.runtimeconfig.json
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\bin\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\bin\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.AssemblyReference.cache
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.cembercember.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgencember.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgendikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.dpdp.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.Form1.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.kuredikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.kurekure.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.kuresilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.noktacember.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.noktakure.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.noktasilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.silindirsilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.silindiryuzey.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.yuzeydikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.yuzeykure.resources
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.GenerateResource.cache
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfoInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfo.cs
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.CoreCompileInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\refint\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\projeyy.genruntimeconfig.cache
+C:\Users\Yalkın Can Yalın\Desktop\wfd\projeyy\obj\Debug\net6.0-windows\ref\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.exe
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.deps.json
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.runtimeconfig.json
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.AssemblyReference.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.cembercember.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgencember.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgendikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dpdp.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.Form1.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.kuredikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.kurekure.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.kuresilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktacember.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktakure.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktasilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.silindirsilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.silindiryuzey.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.yuzeydikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.yuzeykure.resources
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.GenerateResource.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfoInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfo.cs
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.CoreCompileInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\refint\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.genruntimeconfig.cache
+C:\Users\Yalkın Can Yalın\Desktop\projeyalkin\projeyy\obj\Debug\net6.0-windows\ref\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.exe
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.deps.json
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.runtimeconfig.json
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\bin\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.AssemblyReference.cache
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.cembercember.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgencember.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dikdortgendikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dpdp.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.Form1.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.kuredikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.kurekure.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.kuresilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktacember.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgen.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktadikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktakure.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.noktasilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.silindirsilindir.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.silindiryuzey.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.yuzeydikdortgenprizma.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.yuzeykure.resources
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.GenerateResource.cache
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfoInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.AssemblyInfo.cs
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.csproj.CoreCompileInputs.cache
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\refint\projeyy.dll
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.pdb
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\projeyy.genruntimeconfig.cache
+C:\Users\Yalkın Can Yalın\Desktop\b221210101- yalkın can yalınız\projeyalkin\projeyy\obj\Debug\net6.0-windows\ref\projeyy.dll
